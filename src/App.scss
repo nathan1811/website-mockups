@@ -1,0 +1,108 @@
+
+$primary-color: white;
+$json-blue:skyblue;
+$text-color:blue;
+$kotak-red:red;
+$kotak-blue:rgba(0,51,102);
+$card-border-color: grey;
+$form-color:rgb(252, 196, 42);
+ 
+.app {
+    background-color: $primary-color;
+  }
+ 
+.logo {
+    background-color: $json-blue;
+    height:100px;
+ 
+}
+.titlename{
+    color:$text-color
+}
+.header{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.space{
+    margin-top: 150px;
+    margin-left: 135px;
+}
+.kotak-header{
+    background-color: $kotak-red;
+    height:75px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.kotak-right-header{
+    background-color: $kotak-blue;
+    height:55px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding:10px;
+}
+.card-border{
+    display:block;
+    padding:30px;
+    margin-left: 20px;
+    border: 2px black solid;
+    margin-bottom: 25px;
+    background-color: $card-border-color ;
+}
+ 
+.formHeader{
+   
+    background-color: $primary-color
+   
+}
+.formDiv{
+    justify-content: center;
+    display: flex;
+    margin-top: 140px;
+   
+   
+   
+}
+.name{
+margin-top: 20px;
+display:flex;
+ align-items:center;
+}
+.email{
+    margin-top: 20px;
+}
+.password{
+    margin-top: 20px;
+}
+.confirmPassword{
+    margin-top: 20px;
+}
+.phone{
+    margin-top: 20px;
+}
+.input{
+    height:40px;
+    width:300px
+}
+.block{
+    display: flex;
+    flex-direction: column;    
+}
+ 
+.submit-button{
+    height:50px;
+    width:200px;
+    margin-left: 405px;
+    margin-top: 30px;
+    background-color: $kotak-blue;
+    margin-bottom:10px;
+}
+.submit{
+    background-color: $kotak-red;
+}
+.label{
+    font-weight: bold;
+    font-size: 24px;
+}
+ 

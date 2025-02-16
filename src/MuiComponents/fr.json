@@ -1,0 +1,26 @@
+{
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "login": "Se connecter",
+    "reset": "Réinitialiser",
+    "Login": "Se connecter",
+    "Reset": "Réinitialiser",
+    "forgot_password": "Mot de passe oublié",
+    "sign_up": "S'inscrire",
+    "Sign Up": "S'inscrire",
+    "Password Reset":"Réinitialisation du mot de passe",
+    "Confirm Password":"Confirmez le mot de passe",
+    "Password":"Mot de passe",
+    "Reset Password":"Réinitialiser le mot de passe",
+    "Email": "E-mail",
+    "First Name":"Prénom",
+    "Last Name":"Nom de famille",
+    "Confirm Email":"Confirmez votre email",
+    "Back":"Dos",
+    "Enter Email id":"Entrez l'identifiant de messagerie",
+    "Email id":"Identifiant de courrier électronique",
+    "Pin Verification":"Vérification des broches",
+    "Confirm Pin":"Confirmer le code PIN",
+    "Enter 8 digit-pin":"Entrez un code PIN à 8 chiffres"
+  }
+ 

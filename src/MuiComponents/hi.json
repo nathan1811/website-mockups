@@ -1,0 +1,27 @@
+{
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "login": "लॉग इन करें",
+    "reset": "रीसेट",
+    "Login": "लॉग इन करें",
+    "Reset": "रीसेट",
+    "forgot_password": "पासवर्ड भूल गए",
+    "sign_up": "साइन अप करें",
+    "Sign Up": "साइन अप करें",
+    "Password Reset":"पासवर्ड रीसेट",
+    "Confirm Password":"पासवर्ड की पुष्टि कीजिये",
+    "Password":"पासवर्ड",
+    "Reset Password":"पासवर्ड रीसेट",
+    "Email": "ईमेल",
+    "First Name":"पहला नाम",
+    "Last Name":"उपनाम",
+    "Confirm Email":"ईमेल की पुष्टि करें",
+    "Back":"पीछे",
+    "Enter Email id":"ईमेल आईडी दर्ज करें",
+    "Email id":"ईमेल आईडी",
+    "Pin Verification":"पिन सत्यापन",
+    "Confirm Pin":"पिन की पुष्टि करें",
+    "Enter 8 digit-pin":"8 अंकों का पिन डालें"
+ 
+  }
+ 

@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+ 
+.logo img {
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+ 
+.header {
+  margin-left: 500px;
+  margin-top: 50px;
+}
+ 
+.titlename {
+  color: blue;
+}
+ 
+.space {
+  margin-left: 135px;
+  margin-top: 150px;
+}
+ 
+.button {
+  size: medium;
+  justify-content: center;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  background-color: #7EC0DB;
+  border-radius: 100px;
+  height: 100px;
+  width: 300px;
+  font-weight: bold;
+  font-size: 32px;
+}/*# sourceMappingURL=index.css.map */
+ 

@@ -1,0 +1,27 @@
+{
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "reset": "Reset",
+    "Login": "Login",
+    "Reset": "Reset",
+    "forgot_password": "Forgot Password",
+    "sign_up": "Sign Up",
+    "Sign Up": "Sign Up",
+    "Password Reset":"Password Reset",
+    "Confirm Password":"Confirm Password",
+    "Password":"Password",
+    "Reset Password":"Reset Password",
+    "Email": "Email",
+    "First Name":"First Name",
+    "Last Name":"Last Name",
+    "Confirm Email":"Confirm Email",
+    "Back":"Back",
+    "Enter Email id":"Enter Email id",
+    "Email id":"Email Id",
+    "Pin Verification":"Pin Verification",
+    "Confirm Pin":"Confirm Pin",
+    "Enter 8 digit-pin":"Enter 8 digit-pin"
+ 
+  }
+ 
