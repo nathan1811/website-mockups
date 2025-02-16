@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+# Frontend Website Clones – React & TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains frontend clones of popular websites, built using React.js and TypeScript as part of my internship at Kotak Mahindra Bank. The goal of this project was to enhance my skills in modern frontend development, UI design, and form handling using Formik, while implementing unit testing to ensure reliability.
 
-Currently, two official plugins are available:
+Project Overview
+This project includes the following web pages:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Google Clone – A simple homepage with a search UI.
+✅ Tesla Clone – A replica of Tesla’s landing page with basic UI elements.
+✅ LinkedIn Clone – A minimal version where users enter details and see information.
+✅ Kotak Mahindra Clone – A basic UI inspired by Kotak Mahindra’s website.
 
-## Expanding the ESLint configuration
+Features
+✅ React.js + TypeScript for scalable and maintainable code.
+✅ Formik for handling forms and user input efficiently.
+✅ Styled with CSS & SASS for a modern UI.
+✅ Unit Testing using Jest & React Testing Library.
+✅ Version Control with Git for tracking changes.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Technologies Used
+🔹 React.js – Component-based UI development.
+🔹 TypeScript – Type-safe JavaScript for better maintainability.
+🔹 JavaScript (ES6+) – Logic and interactivity.
+🔹 HTML & CSS – Page structure and styling.
+🔹 SASS – Advanced styling with nesting and variables.
+🔹 Formik – Form handling and validation.
+🔹 Jest & React Testing Library – Unit testing for UI reliability.
+🔹 Git – Version control and collaboration.
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+How to Run the Project
+1. Clone the repository: git clone https://github.com/nathan1811/website-mockups.git
+2. Install dependencies: npm install
+3. Start the development server: npm run dev # or npm start
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
